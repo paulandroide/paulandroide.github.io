@@ -1,0 +1,51 @@
+---
+title: "Paula Reyes-Pérez"
+image: "PRRP.jpg"
+links:
+  - label: '`r fontawesome::fa(name = "linkedin", fill = "steelblue")` LinkedIn'
+    url: "https://www.linkedin.com/in/paula-reyes-51b54bb2/"
+  - label: '`r fontawesome::fa(name = "twitter", fill = "steelblue")` Twitter'
+    url: "https://x.com/PauReyesP"
+  - label: '`r fontawesome::fa(name = "github", fill = "steelblue")` Github'
+    url: "https://github.com/paulandroide"
+  - label: '`r fontawesome::fa(name = "envelope", fill = "steelblue")` Mail'
+    url: "mailto:prreyesperez@liigh.unam.mx"
+  - label: '`r fontawesome::fa(name = "user", fill = "steelblue")` CV'
+    url: "https://paulandroide.github.io/CV/cv_PReyes.html"
+output:
+  postcards::trestles
+---
+
+```{r load_packages, message=FALSE, warning=FALSE, include=FALSE} 
+library(fontawesome)
+```
+
+#### **Bio** 
+
+I am interested in studying the genetic basis of Parkinson's Disease in LATAM using bioinformatic and epidemiological approaches. I'm also passionate about public science communication and Teaching.
+
+**PhD student at  LIIGH** | @[LIIGH-UNAM](https://twitter.com/LIIGH_UNAM), Supervisor: @[Alejandra Medina-Rivera](https://twitter.com/AleMedinaRivera) PhD
+
+**GP2 Fellow** | @[GP2](https://gp2.org/) 
+
+**Research Coordinator** | @[Red Mexicana de Investigación en Parkinson](https://mexpd.liigh.unam.mx/) 
+
+**Data Community of Practice Innovator** | @[Michael J Fox Foundation](https://x.com/MichaelJFoxOrg) 
+
+<br>
+
+
+#### **Education**
+
+**Master in Science in Biotechnology** | @[Tecnológico de Monterrey](https://x.com/TecdeMonterrey)  | 2019 - 2020
+
+**Bachelor's in Biotechnology** | @[Universidad Autónoma del Estado de México](https://x.com/UAEM_MX) | 2013 - 2018
+
+<br>
+
+
+#### **Complete list of publications**
+
+[Google Scholar](https://scholar.google.com.mx/citations?user=Q_ZhRzYAAAAJ&hl=en)
+
+
